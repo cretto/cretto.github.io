@@ -93,24 +93,24 @@ const config: Config = {
           label: "About",
           position: "left",
         },
-        {
-          type: "doc",
-          docId: "projects/index",
-          label: "Projects",
-          position: "left",
-        },
+        // {
+        //   type: "doc",
+        //   docId: "projects/index",
+        //   label: "Projects",
+        //   position: "left",
+        // },
         {
           type: "doc",
           docId: "engineering/index",
           label: "Engineering",
           position: "left",
         },
-        {
-          type: "doc",
-          docId: "articles/index",
-          label: "Articles",
-          position: "left",
-        },
+        // {
+        //   type: "doc",
+        //   docId: "articles/index",
+        //   label: "Articles",
+        //   position: "left",
+        // },
         {
           href: "https://github.com/cretto",
           label: "GitHub",

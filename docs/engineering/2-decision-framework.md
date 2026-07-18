@@ -28,6 +28,8 @@ Is the complexity introduced justified by the expected value?
 
 A technically elegant solution that does not create meaningful business value is usually not the right solution.
 
+---
+
 ## Complexity
 
 Complexity is one of the biggest costs in software systems.
@@ -43,6 +45,8 @@ Are we solving a current problem or anticipating an unlikely future scenario?
 
 The goal is not to eliminate complexity, but to make sure every added complexity has a clear purpose.
 
+---
+
 ## Operational Cost
 
 A system is not complete when it is deployed. It must be operated.
@@ -56,6 +60,8 @@ Technical decisions should consider:
 - Team ownership
 
 A solution that works technically but requires excessive operational effort may not be sustainable in the long term.
+
+---
 
 ## Scalability
 
@@ -71,6 +77,8 @@ I consider:
 
 The goal is to design systems that can evolve when needed without introducing unnecessary complexity from day one.
 
+---
+
 ## Maintainability
 
 Software is continuously changed by different people over time.
@@ -85,6 +93,8 @@ Maintainable systems prioritize:
 - Explicit decisions
 
 The best architecture is not the one that is the most sophisticated, but the one that allows teams to safely evolve the system.
+
+---
 
 ## Developer Experience
 
@@ -104,6 +114,8 @@ I consider:
 - Are tools and processes intuitive?
 - Can developers understand and modify the system safely?
 - Does the architecture help or slow down the team?
+
+---
 
 # Final Principle
 

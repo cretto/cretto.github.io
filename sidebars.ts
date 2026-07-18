@@ -3,15 +3,15 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 const sidebars: SidebarsConfig = {
   docs: [
     "about/index",
-    {
-      type: "category",
-      label: "Projects",
-      link: {
-        type: "doc",
-        id: "projects/index",
-      },
-      items: ["projects/event-commerce"],
-    },
+    // {
+    //   type: "category",
+    //   label: "Projects",
+    //   link: {
+    //     type: "doc",
+    //     id: "projects/index",
+    //   },
+    //   items: ["projects/event-commerce"],
+    // },
     {
       type: "category",
       label: "Engineering",
@@ -22,6 +22,7 @@ const sidebars: SidebarsConfig = {
       items: [
         "engineering/1-philosophy",
         "engineering/2-decision-framework",
+        "engineering/3-design-principles",
         // "engineering/2-software-design",
         // "engineering/3-architecture",
         // "engineering/4-quality",
@@ -33,15 +34,15 @@ const sidebars: SidebarsConfig = {
         // "engineering/10-leadership",
       ],
     },
-    {
-      type: "category",
-      label: "Articles",
-      link: {
-        type: "doc",
-        id: "articles/index",
-      },
-      items: [],
-    },
+    // {
+    //   type: "category",
+    //   label: "Articles",
+    //   link: {
+    //     type: "doc",
+    //     id: "articles/index",
+    //   },
+    //   items: [],
+    // },
   ],
 };
 
