@@ -19,7 +19,19 @@ const sidebars: SidebarsConfig = {
         type: "doc",
         id: "engineering/index",
       },
-      items: ["engineering/architecture"],
+      items: [
+        "engineering/1-philosophy",
+        "engineering/2-decision-framework",
+        // "engineering/2-software-design",
+        // "engineering/3-architecture",
+        // "engineering/4-quality",
+        // "engineering/5-delivery",
+        // "engineering/6-cloud",
+        // "engineering/7-observability",
+        // "engineering/8-security",
+        // "engineering/9-ai-assisted-development",
+        // "engineering/10-leadership",
+      ],
     },
     {
       type: "category",
@@ -30,7 +42,6 @@ const sidebars: SidebarsConfig = {
       },
       items: [],
     },
-    "resume/index",
   ],
 };
 

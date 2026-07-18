@@ -112,12 +112,6 @@ const config: Config = {
           position: "left",
         },
         {
-          type: "doc",
-          docId: "resume/index",
-          label: "Resume",
-          position: "left",
-        },
-        {
           href: "https://github.com/cretto",
           label: "GitHub",
           position: "right",
