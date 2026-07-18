@@ -118,12 +118,12 @@ const config: Config = {
           position: "left",
         },
         {
-          href: "https://github.com/henriqueap",
+          href: "https://github.com/cretto",
           label: "GitHub",
           position: "right",
         },
         {
-          href: "https://linkedin.com/in/SEU-LINK",
+          href: "https://www.linkedin.com/in/henrique-anacretto-pereira",
           label: "LinkedIn",
           position: "right",
         },

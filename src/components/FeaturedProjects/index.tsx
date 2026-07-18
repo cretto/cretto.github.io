@@ -7,16 +7,6 @@ const projects = [
     description: "Scalable event-driven ecommerce platform.",
     link: "/docs/projects/event-commerce",
   },
-  {
-    title: "Feature Flags",
-    description: "LaunchDarkly-inspired platform.",
-    link: "/docs/projects/feature-flags",
-  },
-  {
-    title: "IoT Platform",
-    description: "Real-time analytics for connected devices.",
-    link: "/docs/projects/iot-platform",
-  },
 ];
 
 export default function FeaturedProjects() {
